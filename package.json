@@ -45,7 +45,7 @@
     "ngx-virtual-scroller": "3.0.2"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.802.2",
+    "@angular-devkit/build-angular": "15.0.0",
     "@angular/animations": "8.2.2",
     "@angular/cli": "8.2.2",
     "@angular/common": "8.2.2",
